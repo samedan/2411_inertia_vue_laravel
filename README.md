@@ -1,6 +1,6 @@
 ### Source
 
-> https://www.youtube.com/watch?v=QyqrYdhSku0
+> https://youtu.be/QyqrYdhSku0?si=HSh03PX4AMTTXD6n&t=1527
 
 ### Install laravel app
 
