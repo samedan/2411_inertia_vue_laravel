@@ -21,12 +21,15 @@ Route::get('/', function () {
 });
 Route::get('/users', function () {
     return Inertia::render('Users', [
-       
+       'time' => now()->toTimeString()
     ]);
 });
 Route::get('/settings', function () {
     return Inertia::render('Settings', [
        
     ]);
+});
+Route::post('/logout', function () {
+    dd('log out');
 });
 
